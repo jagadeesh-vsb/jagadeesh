@@ -2,7 +2,7 @@
 <h3 align="center">ELECTRICAL ENGINEER</h3>
 
 <p align="center">
-  According to the circuit designer role, I enjoy building practical systems, solving real-world problems, and working with embedded and connected technologies.
+  According to the electrical engineer role, I enjoy building practical systems, solving real-world problems, and working with embedded and connected technologies.
 </p>
 
 ## About Me
