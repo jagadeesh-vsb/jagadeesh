@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jagadeesh Y M</h1>
-<h3 align="center">ELECTRICAL ENGINNER</h3>
+<h3 align="center">ELECTRICAL ENGINEER</h3>
 
 <p align="center">
   According to the circuit designer role, I enjoy building practical systems, solving real-world problems, and working with embedded and connected technologies.
